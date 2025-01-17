@@ -1,0 +1,2 @@
+# Django-Hospital
+Proyecto educativo
